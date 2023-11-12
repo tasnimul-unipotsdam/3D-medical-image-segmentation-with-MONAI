@@ -6,3 +6,8 @@ leveraging an open-source project, MONAI.
 ## MONAI
 [MONAI](https://monai.io/) is an open-source framework built for deep learning-based Medical Imaging research. It is built on top of PyTorch. 
 This framework provides easily usable functions for 3D medical image processing specifically for loading 3-D images, augmentation, and metrics.   
+
+ # Dependencies
+* [Python 3.8](https://www.python.org/)
+* [PyTorch 1.9.0](http://pytorch.org/)
+* [MONAI](https://monai.io/)
